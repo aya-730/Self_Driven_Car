@@ -7,6 +7,7 @@
 #define max_speed 255
 
 
+
 #define TRIG 3  // TRIG PIN connected to Analog pin 3 out
 #define ECHO 2  // ECHO PIN connected to Analog pin 2 in
 int duration = 0;
